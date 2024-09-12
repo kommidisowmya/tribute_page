@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(245, 218, 178);
+    text-align: center;
+}
+h1{
+    color: brown;
+    font-size: 60px;
+}
+img{
+    height: 600px;
+    width: 1000px;
+
+}
+.about{
+    color: brown;
+    font-weight: bold;
+    font-size: 20px;
+}
+.box{
+    background-color: rgb(225, 183, 121);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+}
+h3{
+    text-align: left;
+}
+.para{
+    text-align: left;
+}
+li{
+    text-align: left;
+}
